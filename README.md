@@ -1,6 +1,8 @@
 # Demo-create-a-compass-use-position-sensors
 
 
+This image performs the current orientation of the device and North way
+
 ![image](https://user-images.githubusercontent.com/43597747/104677655-60394980-571c-11eb-99ac-e2ca9d3a59f2.png)
 
 
